@@ -63,7 +63,6 @@
   <project path="packages/apps/Browser2" name="android_packages_apps_browser2" />
   <project path="frameworks/base" name="android_frameworks_base" remote="ts" revision="tsimx_N7.1.1_1.0.0" />
   <project path="frameworks/ex" name="android_frameworks_ex" remote="ts" revision="tsimx_N7.1.1_1.0.0" />
-  <project path="hardware/broadcom/libbt" name="android_hardware_broadcom_libbt" remote="ts" revision="tsimx_N7.1.1_1.0.0" />
   <project path="hardware/libhardware_legacy" name="android_hardware_libhardware_legacy" remote="ts" revision="tsimx_N7.1.1_1.0.0" />
   <project path="hardware/libhardware" name="android_hardware_libhardware" remote="ts" revision="tsimx_N7.1.1_1.0.0" />
   <project path="frameworks/av" name="android_frameworks_av" remote="ts" revision="tsimx_N7.1.1_1.0.0" />
