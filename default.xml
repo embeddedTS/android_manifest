@@ -60,7 +60,7 @@
   <project path="packages/apps/LegacyCamera" name="android_packages_apps_legacycamera" remote="ts" revision="tsimx_N7.1.1_1.0.0" />
   <project path="packages/apps/Email" name="android_packages_apps_email" remote="ts" revision="tsimx_N7.1.1_1.0.0" />
   <project path="packages/apps/DeskClock" name="android_packages_apps_deskclock" remote="ts" revision="tsimx_N7.1.1_1.0.0" />
-  <project path="packages/apps/Browser2" name="android_packages_apps_browser2" />
+  <project path="packages/apps/Browser2" name="android_packages_apps_browser2" remote="ts" revision="tsimx_N7.1.1_1.0.0" />
   <project path="frameworks/base" name="android_frameworks_base" remote="ts" revision="tsimx_N7.1.1_1.0.0" />
   <project path="frameworks/ex" name="android_frameworks_ex" remote="ts" revision="tsimx_N7.1.1_1.0.0" />
   <project path="hardware/libhardware_legacy" name="android_hardware_libhardware_legacy" remote="ts" revision="tsimx_N7.1.1_1.0.0" />
