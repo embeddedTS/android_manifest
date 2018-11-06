@@ -14,7 +14,7 @@
            remote="aosp"
            sync-j="4" />
 
-  <!--<project path="kernel_imx" name="embeddedarm/linux-3.10.17-imx6" revision="tsimx_N7.1.1_1.0.0" remote="github" />-->
+  <project path="kernel_imx" name="embeddedarm/linux-tsimx" revision="tsimx_N7.1.1_1.0.0" remote="github" />
   <project path="build" name="android_build" remote="ts" revision="tsimx_N7.1.1_1.0.0" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
