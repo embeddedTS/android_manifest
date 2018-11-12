@@ -73,6 +73,8 @@
   <project path="frameworks/opt/telephony" name="android_frameworks_opt_telephony" remote="ts" revision="tsimx_N7.1.1_1.0.0" />
   <project path="packages/apps/Gallery" name="android_packages_apps_gallery" remote="ts" revision="tsimx_N7.1.1_1.0.0" />
   <project path="external/skia" name="android_external_skia" remote="ts" revision="tsimx_N7.1.1_1.0.0" />
+  <project path="packages/apps/Settings" name="android_packages_apps_settings" remote="ts" revision="tsimx_N7.1.1_1.0.0" />
+
 
   <!-- Unchanged AOSP projects -->
   <project path="build/blueprint" name="platform/build/blueprint" groups="pdk,tradefed" />
