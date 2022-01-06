@@ -5,7 +5,7 @@
            fetch="https://android.googlesource.com/"
            review="https://android-review.googlesource.com/" />
   <remote  name="ts-github"
-           fetch="git://github.com/embeddedarm/" />
+           fetch="git://github.com/embeddedTS/" />
   <remote  name="cyanogen"
             fetch="git://github.com/CyanogenMod/" />
 
