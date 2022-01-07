@@ -8,13 +8,13 @@
   <remote  name="github"
            fetch="git://github.com/" />
   <remote  name="ts"
-           fetch="git://github.com/embeddedarm/" />
+           fetch="git://github.com/embeddedTS/" />
 
   <default revision="refs/tags/android-7.1.1_r13"
            remote="aosp"
            sync-j="4" />
 
-  <project path="kernel_imx" name="embeddedarm/linux-tsimx" revision="tsimx_N7.1.1_1.0.0" remote="github" />
+  <project path="kernel_imx" name="embeddedTS/linux-tsimx" revision="tsimx_N7.1.1_1.0.0" remote="github" />
   <project path="build" name="android_build" remote="ts" revision="tsimx_N7.1.1_1.0.0" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
